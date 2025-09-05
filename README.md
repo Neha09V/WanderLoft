@@ -1,6 +1,6 @@
 
 
-<h1 align="center">🏡 WanderLust</h1>
+<h1 align="center">🏡 WanderLoft</h1>
 
 <p align="center">
   A full-stack web application inspired by Airbnb. Built for learning and practice purposes. Users can browse and book listings, host properties, and manage bookings with an intuitive and responsive UI.
