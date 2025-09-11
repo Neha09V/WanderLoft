@@ -11,7 +11,6 @@
 ## ✨ Features
 
 - 🔍 Browse and search rental listings
-- 🧳 Book listings with availability checks
 - 🧑‍💼 Host your own properties
 - 💬 Leave and view reviews
 - 🔐 Authentication & Authorization
@@ -35,14 +34,14 @@
 `Passport.js`, `express-session`
 
 **Utilities:**  
-`Cloudinary`, `Flatpickr`, `MapBox`, `joi`, `multer`, `dayjs`
+`Cloudinary`, `Flatpickr`, `joi`, `multer`, `dayjs`
 
 ---
 
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com//Neha09V/WanderLust-Project.git
-cd wandrly
+git clone https://github.com//Neha09V/WanderLoft-Project.git
+cd wanderloft
 npm install
 
